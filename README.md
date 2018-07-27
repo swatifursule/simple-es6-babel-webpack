@@ -1,6 +1,6 @@
 npm install http-server --save-dev
 
-===================================================================
+===================================================================<br>
 <b>Babel setup using:</b><br>
 
 npm init
@@ -16,7 +16,7 @@ Inside package.json
 Run application using:
 npm run babel && npm start
 
-====================================================================
+====================================================================<br>
 <b>Webpack setup </b><br>
 npm install babel-loader webpack --save-dev
 
@@ -63,9 +63,9 @@ npm run webpack && npm start
 
 ES6 features:
 
-let
-Destructuring
-Arrow functions
-modules
-classes
+let,
+Destructuring,
+Arrow functions,
+modules,
+classes,
 promises
